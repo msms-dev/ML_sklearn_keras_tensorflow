@@ -1,0 +1,1 @@
+Hands-on Machine Learning with  Scikit-Learn, Keras & TensorFlow. Each chapter is extensively studied and then practically conditioned within a Jupyter Notebook. Each chapter has been written, and not simply copied and pasted. This ensures cementation and reproducability  
